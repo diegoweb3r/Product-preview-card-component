@@ -26,7 +26,6 @@ Projeto frontend realizado através dos desafios do site <a href="https://www.fr
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 
 
